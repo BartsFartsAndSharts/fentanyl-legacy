@@ -1,8 +1,8 @@
-owner = DEN
-controller = DEN
+owner = MYS
+controller = MYS
 add_core = MYS
 add_core = HYD
 add_core = HND
 trade_goods = tea
 life_rating = 30
-colonial = 2
+

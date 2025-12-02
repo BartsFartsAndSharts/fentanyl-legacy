@@ -1,5 +1,6 @@
-owner = MUG
-controller = MUG
+owner = PAN
+controller = PAN
+add_core = PAN
 add_core = MUG
 add_core = HND
 trade_goods = tea
