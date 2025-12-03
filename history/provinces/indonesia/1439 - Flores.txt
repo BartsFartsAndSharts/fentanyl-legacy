@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = BAL
+controller = BAL
+add_core = BAL
 trade_goods = timber
 life_rating = 30
 colonial = 2

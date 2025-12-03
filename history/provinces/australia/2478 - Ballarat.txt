@@ -1,6 +1,5 @@
 owner = ENG
 controller = ENG
-add_core = GBR
 add_core = AST
 trade_goods = wool
 life_rating = 40
@@ -9,3 +8,4 @@ life_rating = 40
 	controller = AST
 	colonial = 0
 }
+colonial = 2
