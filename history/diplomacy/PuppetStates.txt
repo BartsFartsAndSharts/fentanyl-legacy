@@ -87,6 +87,18 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1950.1.1
 }
+vassal = {
+	first = ENG
+	second = TEX
+	start_date = 1836.1.1
+	end_date = 1950.1.1
+}
+vassal = {
+	first = ENG
+	second = CHE
+	start_date = 1836.1.1
+	end_date = 1950.1.1
+}
 # Ottoman Empire-Wallachia
 vassal = {
 	first = TUR

@@ -1,0 +1,6 @@
+owner = ENG
+controller = ENG
+add_core = USA
+add_core = CHE
+trade_goods = coal
+life_rating = 35

@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = CHE
+controller = CHE
 add_core = CHE
 add_core = USA
 trade_goods = grain

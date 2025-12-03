@@ -1,0 +1,44 @@
+political_decisions = {
+	france_liferating_decision_1 = {
+		picture = embrace_minority
+		potential = {
+			tag = FRA
+			has_country_flag = napoleon_ii
+			
+			NOT = {has_country_flag = france_liferating_decision_1}
+			}
+		allow = {
+			war = no
+			medicine = 1
+		}
+		effect = {
+		set_country_flag = france_liferating_decision_1
+			FRA = {
+				country_event = { id=91303 days=0 }
+			}
+		}
+		}
+	france_liferating_decision_2 = {
+		picture = embrace_minority
+		potential = {
+			tag = FRA
+			has_country_flag = napoleon_ii
+			has_country_flag = france_liferating_decision_1
+			
+			NOT = {has_country_flag = france_liferating_decision_2}
+			}
+		allow = {
+			war = no
+			inorganic_chemistry = 1
+		}
+		effect = {
+		set_country_flag = france_liferating_decision_2
+			FRA = {
+				country_event = { id=91304 days=0 }
+			}
+		}
+		}
+}
+					
+				
+
