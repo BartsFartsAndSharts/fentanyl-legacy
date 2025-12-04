@@ -1,8 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = HND
+owner = MUG
+controller = MUG
 add_core = MUG
+add_core = HND
 trade_goods = opium
 life_rating = 30
-colonial = 2
+
 

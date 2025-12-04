@@ -135,3 +135,7 @@ unsiege_now_title;START the unsiege!;;;;;;;x
 unsiege_now_desc;If you press this decision, every player nation with the unsiege flag gets fully unsieged;;;;;;;x
 clear_unsiege_flags_title;Clear all Unsiege flags;;;;;;;x				
 clear_unsiege_flags_desc;Removes all leftover Unsiege flags (safety);;;;;;;x
+reconquest_of_flanders_title;Herovering van Vlaanderen;x;;;;
+reconquest_of_flanders_desc;For the last few decades, our own people were ruled by the so called Liberal French regime, it is high time we take back our core territories and bring our kinsmen to our fold once again;x;;;;
+reconquest_of_south_africa_title;Herovering van Zuid-Afrika;x;;;;
+reconquest_of_south_africa_desc;Our brave pioneers and colonists on the African cape have been abandoned and leased to the British by the insidious house of Oranje. And unlike them, we shall nurse them back to our state with full citizen privileges.;x;;;;
