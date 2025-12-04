@@ -1,0 +1,64 @@
+country_event = {
+
+	id = 650201
+	title = "JAP1.T"
+	desc = "JAP1.D"
+
+	picture = morrison
+	fire_only_once = yes
+	
+	trigger = {
+	fire_only_once = yes
+	tag = JAP
+	NOT = { has_country_flag = shogun_path }
+	NOT = { has_country_flag = meiji_path }
+	}
+	
+	mean_time_to_happen = {
+		days = 0
+	}
+	
+	option = {
+		name = "650201.A"
+		set_country_flag = shogun_path
+		set_global_flag = shogun_p
+		any_pop = {
+			limit = {
+				culture = japanese
+				location = {
+					is_core = JAP
+				}
+			}
+			militancy = 1
+		}
+		add_country_modifier = { 
+			name = shogunate_court_reforms
+			duration = 25550
+		}
+		ai_chance = { 
+		factor = 50
+		}
+	}
+	
+	option = {
+		name = "650201.B"
+			set_country_flag = meiji_path
+			set_global_flag = meiji_p
+		any_pop = {
+			limit = {
+				culture = japanese
+				location = {
+					is_core = JAP
+				}
+			}
+			militancy = 1
+		}
+		add_country_modifier = { 
+			name = meiji_court_reforms
+			duration = 25550
+		}
+		ai_chance = { 
+			factor = 50
+			}
+	}
+}

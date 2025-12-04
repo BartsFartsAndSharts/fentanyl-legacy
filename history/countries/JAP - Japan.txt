@@ -27,6 +27,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+govt_flag =
+{
+    government = fascist_dictatorship
+    flag = prussian_constitutionalism 
+}
+
+govt_flag =
+{
+    government = absolute_monarchy
+    flag = fascist_dictatorship
+}
+
+
 ruling_party = NIP_reactionary
 upper_house = {
 	fascist = 0

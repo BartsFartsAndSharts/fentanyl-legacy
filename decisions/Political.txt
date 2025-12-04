@@ -140,10 +140,13 @@ political_decisions = {
 			tag = JAP
 			civilized = no
 			not = { has_country_modifier = meiji_restoration_boost }
+			NOT = { has_country_modifier = shogun_lives }
+			NOT = { has_country_flag = shogun_path }
 		}
 		allow = {
 			war = no
 			part_of_sphere = yes
+			has_country_flag = meiji_path
 		}
 		effect = {
 			prestige = 50
@@ -161,10 +164,13 @@ political_decisions = {
 			tag = JAP
 			civilized = no
 			not = { has_country_modifier = meiji_restoration_boost }
+			NOT = { has_country_modifier = shogun_lives }
+			NOT = { has_country_flag = shogun_path }
 		}
 		allow = {
 			war = no
 			part_of_sphere = no
+			has_country_flag = meiji_path
 		}
 		effect = {
 			years_of_research = 5
@@ -270,3 +276,4 @@ political_decisions = {
 		}
 	}
 }
+
