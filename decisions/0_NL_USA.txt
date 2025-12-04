@@ -7,19 +7,7 @@ political_decisions = {
 		}
 		allow = { 
 			war = no
-			ICF = { 
-				all_core = { 
-					OR = {
-						owned_by = USA
-						owner = {
-							OR = {
-								in_sphere = THIS
-								vassal_of = THIS
-							}
-						}
-					} 
-				} 
-			}
+			owns = 139
    		}
 		effect = { 
 			USA_78 = { add_core = USA }
@@ -33,7 +21,6 @@ political_decisions = {
 			USA_148	= { add_core = USA }
 			USA_151 = { add_core = USA }
 			USA_158	= { add_core = USA }	
-			ICF = { annex_to = THIS }
 			set_country_flag = USAlouisiana	
 		}
 	}
