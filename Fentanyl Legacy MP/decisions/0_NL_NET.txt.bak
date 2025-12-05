@@ -1,0 +1,26 @@
+political_decisions = {
+reconquest_of_flanders = { 
+		picture = dutch_lion
+		potential = {
+			primary_culture = dutch		
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			owns = 390
+			NOT = {has_country_flag=reconquest_of_flanders}
+			
+		}
+		effect = {
+		add_core = 388
+		add_core = 389
+		add_core = 390
+		add_core = 387
+		add_core = 391
+		add_accepted_culture = flemish
+		set_country_flag=reconquest_of_flanders
+		
+		}
+	}
+
+
+}
