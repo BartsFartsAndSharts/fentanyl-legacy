@@ -7,19 +7,19 @@ FRA_fascist_dictatorship;Regime de France;;;;;;;x
 FRA_democracy;Deuxieme Republique Francaise;;;;;;;x
 ###Heirs;;;;;;;x
 napoleon_ii_title;Napoleon II Recovers;;;;;;;x
-napoleon_ii_desc;Prince Napoleon, the son of the late Emperor and Marie Louise of Austria, is a capable but sickly man, his health has threatened his ability to contest his throne, but if he survives and recovers, L'Aiglon's blood connections will ensure stability and prosperity at home, while mantaining the status quo of French influence in Europe.;;;;;;;x
+napoleon_ii_desc;Prince Napoleon, the son of the late Emperor and Marie Louise of Austria, is a capable but sickly man, his health has threatened his ability to contest his throne, but if he survives and recovers, L'Aiglon's blood connections will ensure stability and prosperity at home, while mantaining the status quo of French influence in Europe. §RThis path raises life rating in french provinces.§;;;;;;;x
 alexandre_walewski_title;Alexandre Walewski;;;;;;;x
-alexandre_walewski_desc;Alexandre is Napoleon's purported bastard son. Due to him being considered an "outsider", he might achieve some level of popularity with the ethnic minorities that reside in the frontiers of the French Empire - surely not as much as a hypothetical Second Republic would.;;;;;;;x
+alexandre_walewski_desc;Alexandre is Napoleon's purported bastard son. Due to him being considered an "outsider", he might achieve some level of popularity with the ethnic minorities that reside in the frontiers of the French Empire - surely not as much as a hypothetical Second Republic would. §RThis path gives you two accepted cultures of choice.§;;;;;;;x
 french_republic_choice_title;The Second Republic;;;;;;;x
 french_republic_choice_desc;There is no man, or woman, suitable to succeed Napoleon as despot of France! Our only reasonable option is to give power back to the people and let God take the wheel.;;;;;;;x
 jerome_bonaparte_title;Jerome Bonaparte;;;;;;;x
-jerome_bonaparte_desc;Jerome Bonaparte is Napoleon's brother and the King of Westphalia. His experience in ruling, confirmed blood relation to Napoleon and an already vast German domain make Hieronymus an excellent choice to succeed his brother. ;;;;;;;x
+jerome_bonaparte_desc;Jerome Bonaparte is Napoleon's brother and the King of Westphalia. His experience in ruling, confirmed blood relation to Napoleon and an already vast German domain make Hieronymus an excellent choice to succeed his brother. §RThis path gives Renish accepted and annexes Westphalia.§;;;;;;;x
 louis_bonaparte_title;Louis Bonaparte;;;;;;;x
-louis_bonaparte_desc;Louis Bonaparte, the Rabbit of the Netherlands, is Napoleon's youngest brother. Considered a lunatic by some, he is nevertheless well-liked by the people of Holland.;;;;;;;x
+louis_bonaparte_desc;Louis Bonaparte, the Rabbit of the Netherlands, is Napoleon's youngest brother. Considered a lunatic by some, he is nevertheless well-liked by the people of Holland. §RThis path gives you Dutch and Flemish accepted and annexes the Netherlands.§;;;;;;;x
 marie_louise_title;Marie Louise;;;;;;;x
 marie_louise_desc;Marie Louise, Duchess of Parma is Napoleon's widow. Despite being past child-bearing age, many European monarchs would happily accept a political marriage with her in the hopes of securing prestige or an alliance with France's military might.  ;;;;;;;x
 maximilien_title;Maximilien de Beauharnais;;;;;;;x
-maximilien_desc;Maximilien de Beauharnais is the son of Italian vice-roy Eugene de Beauharnais. Although he's  currently only Duke of Lombardy, the nation of France might have better relations with the people of North Italy if Maximilien recovers his father's domain while reigning as Emperor of France.;;;;;;;x
+maximilien_desc;Maximilien de Beauharnais is the son of Italian vice-roy Eugene de Beauharnais. Although he's  currently only Duke of Lombardy, the nation of France might have better relations with the people of North Italy if Maximilien recovers his father's domain while reigning as Emperor of France.§RThis path gives you Arpitan accepted and annexes much of Northern Italy.§;;;;;;;x
 ###Germany related;;;;;;;x
 accept_rhenish_title;Acceptance of the Rhenish;;;;;;;x
 accept_rhenish_desc;We should accept the Rhenish people in order to avoid another Rhenish revolt!;;;;;;;x
@@ -82,3 +82,10 @@ french_education;French Education;;;;;;;x
 french_education_desc;It's time to teach the French ways to those Germans to further their integration inside our empire!;;;;;;;x
 french_republic;French Republic;;;;;;;x
 french_republic_desc;After the death of the dictator Napoleon the 1st, France can rejoice with the 2nd Republic!;;;;;;;x
+#NapoleonII;;;;;;;x
+france_liferating_decision_1_title;Embrace pro-natalist polocies;;;;;;;x
+france_liferating_decision_1_desc;France's dominance through the prior centuries came from her vast population. However, the last century has seen her advantage slowly erode. Napoleon II sees an oppertunity to rehabilitate the situation by banning contraception and promoting families once again;;;;;;;x
+france_liferating_decision_2_title;Extend pro-natalist polocies;;;;;;;x
+france_liferating_decision_2_desc;Initial efforts have shown promise, but France still lags behind on births compared to the rest of Europe. While the Revolution brought some much needed change to France, Republicanism has been a constant thorn in the side of the Bonapartes, with both Father and Son Napoleon subject to numerous assassinaiton attempts. L'Aiglon seeks to destory the influence of Republicanism in the countryside, and hopefully bring France more in line with more conservitave Europe.;;;;;;;x
+france_liferating_decision_3_title;Finish French Demographic Rehabilitation;;;;;;;x
+france_liferating_decision_3_desc;After decades of work, cooperation with the Church, and countless efforts to extend hygene and sanitation across the Empire, France has returned to the levels of the rest of Europe in population growth.;;;;;;;x

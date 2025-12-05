@@ -21,6 +21,8 @@ political_decisions = {
 			USA_148	= { add_core = USA }
 			USA_151 = { add_core = USA }
 			USA_158	= { add_core = USA }	
+			inherit = TEX 
+            inherit = CHE 
 			set_country_flag = USAlouisiana	
 		}
 	}

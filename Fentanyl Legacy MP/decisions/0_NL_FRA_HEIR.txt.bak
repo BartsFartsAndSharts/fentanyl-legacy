@@ -11,6 +11,7 @@ political_decisions = {
 			set_country_flag = chose_heir_nap
 			set_country_flag = napoleon_ii
 		}
+		}
 	louis_bonaparte = { 
 	picture = louis_bonaparte	#This is actually redundant but i hate it when the validator tells me that there's no decision that uses a pic when the decision and image names are the same 
 		potential = { 

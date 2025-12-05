@@ -88,23 +88,4 @@ political_decisions = {
 			set_country_flag = maximilien
 		}
 	}
-	french_republic_choice = {
-	picture = french_republic
-		potential = { 
-			tag = FRA
-			ai = no
-			NOT = { has_country_flag = chose_heir_nap } 
-		}
-		allow = { }
-		effect = { 
-			set_country_flag = chose_heir_nap
-			set_country_flag = republic
-			government = democracy
-			political_reform = wealth_voting
-			add_country_modifier = {
-				name = french_republic
-				duration = -1
-			}
-		}
-	}
 }

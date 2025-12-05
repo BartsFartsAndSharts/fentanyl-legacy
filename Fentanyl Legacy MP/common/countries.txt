@@ -283,3 +283,4 @@ SMA		= 	"countries/Small State.txt"
 MED		=	"countries/Medium State.txt"
 LRG		=	"countries/Large State.txt"
 HUG		=	"countries/Huge State.txt"
+GHO   	= "countries/Ghost Country.txt" #Ghost nation that handles events and decisions
