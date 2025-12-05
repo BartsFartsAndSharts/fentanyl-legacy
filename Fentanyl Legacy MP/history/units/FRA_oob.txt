@@ -4,6 +4,11 @@ IRE = {
 	level = 5
 	influence_value = 15
 }
+EGY = { 
+	value = 125
+	level = 4
+	influence_value = 15
+}
 NET = { 
 	value = 125
 	level = 5
