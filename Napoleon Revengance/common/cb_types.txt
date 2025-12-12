@@ -1146,7 +1146,7 @@ place_in_the_sun = {
 	
 	construction_speed = 0.5
 
-	badboy_factor = 0.5
+	badboy_factor = 1
 	prestige_factor = 1.8
 	peace_cost_factor = 0.9
 	penalty_factor = 1
@@ -2077,7 +2077,6 @@ unification_humiliate_cb = {
 			value = 0.1
 		}
 	}
-}
 	allowed_states_in_crisis = {
 		any_owned_province = {
 			any_neighbor_province = {
@@ -2569,7 +2568,7 @@ take_capital = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.4
+	badboy_factor = 2.8
 	prestige_factor = 10
 	peace_cost_factor = 1.4
 	penalty_factor = 1
