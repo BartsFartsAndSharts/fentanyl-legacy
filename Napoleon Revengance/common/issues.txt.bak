@@ -543,22 +543,19 @@ social_reforms = {
 			administrative_multiplier = 2
 			population_growth = 0.001
 			global_immigrant_attract = 0.04 #4% was 0.02
-			allow = { NOT = { has_country_flag = ghostland}  has_country_flag = medicine_invented }
+			
 		}
 		acceptable_health_care = {
 			factory_throughput = 0.06
 			administrative_multiplier = 3
 			population_growth = 0.001
 			global_immigrant_attract = 0.06 #6% was 0.03
-			allow = { NOT = { has_country_flag = ghostland}  has_country_flag = gaslights_invented }
-			
 		}
 		good_health_care = {
 			factory_throughput = 0.08
 			administrative_multiplier = 4
-			population_growth = 0.001
+			population_growth = 0.002
 			global_immigrant_attract = 0.10 #10% was 0.04
-			allow = { NOT = { has_country_flag = ghostland}  has_country_flag = electricity_invented }
 		}
 	}
 
