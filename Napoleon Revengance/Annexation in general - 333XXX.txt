@@ -1,0 +1,17 @@
+country_event = { 
+	id = 333041
+	title = "Dconquest.T"
+	desc = "Dconquest.D"
+	
+	is_triggered_only = yes
+	
+	option = {
+	name = "333041.A"
+	set_global_flag = debug_conquest
+	}
+
+	option = {
+	name = "333041.B"
+	clr_global_flag = debug_conquest
+	}
+}
