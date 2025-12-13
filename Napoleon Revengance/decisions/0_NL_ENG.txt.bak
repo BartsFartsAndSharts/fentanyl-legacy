@@ -80,6 +80,7 @@ political_decisions = {
 		}
 	}
 	create_british_louisiana = {
+	picture = louisiana_map
 		potential = {
 			tag = ENG
 			TEX = { exists = yes }
@@ -168,13 +169,6 @@ political_decisions = {
 			USA_124 = {
 					add_core = ULA
 				}
-			any_country = {
-				limit = {
-					
-					in_sphere = THIS
-					NOT = { tag = USA tag = CSA tag = CAN}
-				}
-				annex_to = ULA
 			}
 			ULA = {
 			inherit = TEX

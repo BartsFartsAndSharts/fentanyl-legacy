@@ -169,14 +169,6 @@ political_decisions = {
 			USA_124 = {
 					add_core = ULA
 				}
-			any_country = {
-				limit = {
-					
-					in_sphere = THIS
-					NOT = { tag = USA tag = CSA tag = CAN}
-				}
-				annex_to = ULA
-			}
 			ULA = {
 			inherit = TEX
 			inherit = CHE
@@ -190,7 +182,6 @@ political_decisions = {
 			}
 		}
 	}
-}
     na_expansion_3 = {
 		picture = louisiana_map
 		potential = {

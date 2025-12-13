@@ -9,7 +9,7 @@ political_decisions = {
 			}
 		allow = {
 			war = no
-			medicine = 1
+			inorganic_chemistry = 1
 		}
 		effect = {
 		set_country_flag = france_liferating_decision_1
@@ -29,7 +29,7 @@ political_decisions = {
 			}
 		allow = {
 			war = no
-			inorganic_chemistry = 1
+			organic_chemistry = 1
 		}
 		effect = {
 		set_country_flag = france_liferating_decision_2
@@ -49,7 +49,7 @@ political_decisions = {
 			}
 		allow = {
 			war = no
-			organic_chemistry = 1
+			electricity = 1
 		}
 		effect = {
 		set_country_flag = france_liferating_decision_3

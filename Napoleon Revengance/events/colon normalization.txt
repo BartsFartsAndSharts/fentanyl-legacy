@@ -116,22 +116,11 @@ country_event = {
 	title = "EVTNAME91303"
 	desc = "EVTDESC91303"
 	picture = colonial_factory
-
-
+	
 	trigger = {
-		any_owned_province = {
-			OR = {
-				continent = europe
-				province_id = 1428
-			}
-			OR = {
-				NOT = { life_rating = 11 }
-				NOT = { life_rating = 16 }
-				NOT = { life_rating = 21 }
-				NOT = { life_rating = 26 }
-			}
-		}
+	tag = GHO
 	}
+
 
 	option = {
 		name = "EVTOPTA91303" 
@@ -152,20 +141,8 @@ country_event = {
 	desc = "EVTDESC91304"
 	picture = colonial_factory
 
-
 	trigger = {
-		any_owned_province = {
-			OR = {
-				continent = europe
-				province_id = 1428
-			}
-			OR = {
-				NOT = { life_rating = 11 }
-				NOT = { life_rating = 16 }
-				NOT = { life_rating = 21 }
-				NOT = { life_rating = 26 }
-			}
-		}
+	tag = GHO
 	}
 
 	option = {
@@ -189,18 +166,7 @@ country_event = {
 
 
 	trigger = {
-		any_owned_province = {
-			OR = {
-				continent = europe
-				province_id = 1428
-			}
-			OR = {
-				NOT = { life_rating = 11 }
-				NOT = { life_rating = 16 }
-				NOT = { life_rating = 21 }
-				NOT = { life_rating = 26 }
-			}
-		}
+	tag = GHO
 	}
 
 	option = {

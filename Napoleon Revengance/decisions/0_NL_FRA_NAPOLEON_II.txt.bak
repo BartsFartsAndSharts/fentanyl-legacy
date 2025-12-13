@@ -38,6 +38,26 @@ political_decisions = {
 			}
 		}
 		}
+	france_liferating_decision_3 = {
+		picture = embrace_minority
+		potential = {
+			tag = FRA
+			has_country_flag = napoleon_ii
+			has_country_flag = france_liferating_decision_2
+			
+			NOT = {has_country_flag = france_liferating_decision_3}
+			}
+		allow = {
+			war = no
+			organic_chemistry = 1
+		}
+		effect = {
+		set_country_flag = france_liferating_decision_3
+			FRA = {
+				country_event = { id=91305 days=0 }
+			}
+		}
+		}
 }
 					
 				
