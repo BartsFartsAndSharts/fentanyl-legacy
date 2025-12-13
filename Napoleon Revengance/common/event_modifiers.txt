@@ -31,6 +31,11 @@ shogun_strength_boost2 = {
 mobilisation_size = 0.03
 }
 
+secret_police = {
+	suppression_points_modifier = 0.5
+	pop_consciousness_modifier = -0.05
+	icon = 15
+}
 
 ##### TECH SCHOOLS ######
 academic_confusion = {
